@@ -38,3 +38,5 @@ objects
 ircserv
 .idea
 bot/bot
+logs/
+pass/
